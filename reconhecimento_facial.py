@@ -3,6 +3,7 @@
 Reconhecimento Facial
 Script: Neylson Crepalde
 Python 2.7
+Depende de OpenCV 3
 """
 
 import numpy as np
